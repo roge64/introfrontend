@@ -12,6 +12,6 @@ Para definir el público objetivo se usa la aplicación MIRO y un template dispo
 
 Para el wireframe se usa Balsamiq. https://balsamiq.com/wireframes/
 
-Un segundo wireframe con Wireflow de http://www.lucidchart.com
+Un segundo wireframe con Lucidchart.  http://www.lucidchart.com
 
 Para el UI se usa FIGMA con un template disponible. https://www.figma.com/community
